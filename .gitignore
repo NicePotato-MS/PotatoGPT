@@ -1,0 +1,4 @@
+ai/chat/*
+discord-bot/model/*
+discord.log
+discord-bot/config.json
